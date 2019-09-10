@@ -1,0 +1,89 @@
+.policeh
+{
+    color: #212121;
+    text-emphasis: none;
+}
+
+.lh 
+{
+display: flex;
+justify-content: flex-end;
+}
+
+.eh 
+{
+    width: 10px
+}
+.lg
+{text-align: center}
+.lm
+{
+    display: flex;
+    justify-content: center;
+}
+.recherche
+{display: flex;
+justify-content: center;}
+.em
+{width: 10px;}
+.rm{
+    display: flex;
+    justify-content: center;
+}
+.fr
+{
+    display: flex;
+    justify-content: flex-start;
+border-top: 1px #E4E4E4 solid;
+background: #F4F4F4 ;
+}
+.Pf
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5F6368;
+}
+.pp
+{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+}
+.bg
+{
+    display: flex;
+    justify-content: flex-start;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+.bc
+{
+    display: flex;
+    justify-content:center;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+    width:25%;
+}
+.bd
+{
+    display: flex;
+    justify-content:flex-end;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+.be
+{
+    display: flex;
+    justify-content:center;
+}
+.eb
+{
+    width: 20px;
+}
+input[type=search]
+{
+    width: 550px;
+    height: 45px;
+    border: 1px #E4E4E4 solid;
+    border-radius: 50px;
+}
